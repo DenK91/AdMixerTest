@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMixerTest</string>
+    <string name="content_url"><![CDATA[https://storage.googleapis.com/gvabox/media/samples/stock.mp4]]></string>
+</resources>
